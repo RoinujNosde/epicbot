@@ -1,0 +1,1 @@
+Bot URL: https://discordapp.com/oauth2/authorize?&client_id=701990581618081902&scope=bot&permissions=10240

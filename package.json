@@ -1,0 +1,11 @@
+{
+  "name": "EpicBot",
+  "version": "1.0.0",
+  "description": "A EpicBot for a EpicGamers server",
+  "main": "bot.js",
+  "author": "RoinujNosde",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "winston": "^3.2.1"
+  }
+}
