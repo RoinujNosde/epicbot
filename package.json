@@ -4,6 +4,9 @@
   "description": "An EpicBot for a EpicGamers server",
   "main": "bot.js",
   "author": "RoinujNosde",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "dependencies": {
     "discord.js": "^12.2.0",
     "winston": "^3.2.1"
